@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    left: 0;
+        line-height: 1;
+        margin-top: -110px;
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        width: 100%;
+        font-size: 20px;
+}
+button{
+    background-color: red;
+}
+#btn {
+    position: relative;
+    right: 60px;
+    background-color: red;
+    
+
+}
+#btn1{
+    position: relative;
+    margin-right:200px  ;
+}
